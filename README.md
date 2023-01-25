@@ -26,3 +26,7 @@ When subnetting a network, the IP address of the subnet is determined by borrowi
 For example, if a network has a Class C IP address of 192.168.0.0 and needs to be divided into 8 subnets, 3 bits would be borrowed from the host portion of the IP address. This would result in 8 subnets, each with 29 hosts.
 
 Overall, IP subnetting is a powerful tool for managing and organizing networks. It allows network administrators to divide large networks into smaller, more manageable subnets and better control the flow of data traffic.
+
+Best Reagrds
+Jarnail Singh 
+https://www.linkedin.com/in/jarnail82/
